@@ -7,4 +7,4 @@ El código utiliza las siguientes librerías:
 - <b>Scickit-learn</b>: Utilizada para la gran mayoría del aprendizaje computacional.
 - <b>XGBoost</b>: Utilizada para el aprendizaje computacional.
 - <b>SciPy</b>: Utilizada para la mayoría de tests estadísticos.
-- <b>Statsmodels</b>: Utilizada para los tests estadísticos.
+- <b>Statsmodels</b>: Utilizada para un test estadísticos.
