@@ -15,7 +15,6 @@ import matplotlib.pyplot as plt
 from scipy import stats
 from scipy.stats import chi2_contingency
 import statsmodels.stats.multicomp as mc
-import statsmodels.api as sm
 from scipy.stats import pearsonr
 from sklearn.preprocessing import MinMaxScaler
 
